@@ -1,6 +1,6 @@
 <div align="center">
 
-# Remote-Play
+# Remote Play
 Patched Remote Play for Non-Vaio PCs for use with PS3™ 4K Pro.
 </div>
 </br>
