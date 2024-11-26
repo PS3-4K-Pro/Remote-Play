@@ -5,7 +5,16 @@ Patched Remote Play for Non-Vaio PCs for use with PS3™ 4K Pro.
 </br>
 
 [![Github downloads (by repository)](https://img.shields.io/github/downloads/PS3-4K-Pro/Remote-Play/total?style=social)](https://github.com/PS3-4K-Pro/Remote-Play/releases)
+
+![image](https://github.com/user-attachments/assets/b8d76842-ef5b-49d1-ae6d-9e124873bef7)
+
+</br>
+
+![REMOTE](https://github.com/user-attachments/assets/7820b7cb-b31d-4bf2-8704-401293467071)
+
+
 </div>
+
 
 ## Instructions  
 
